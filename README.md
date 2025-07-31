@@ -19,6 +19,10 @@ Users can:
 - Learn safe practices for digital banking and payments  
 - Use the agent as a learning tool for digital finance
 
+ # Screenshots
+ ### Set up 
+ ![Setup](Setup.png)
+
 # 💬Example Prompts
 
 - “How do I send money via UPI?”
@@ -26,6 +30,7 @@ Users can:
 - “What is a good interest rate for a personal loan?”
 - “How can I make a monthly budget?”
 - “Kaise pata chalega ki financial website fake hai?”
+
 
 # ☁️IBM Cloud Services Used
 
@@ -62,12 +67,7 @@ Users can:
 - ❌ Don’t use it as a replacement for official bank guidance
 
 
-## 🙏 Acknowledgement
 
-- *Infosys Springboard Pragati Cohort 6* – for the platform and opportunity  
-- *IBM Cloud Services & IBM Granite* – for AI capabilities  
-- *Government Portals, RBI, NPCI* – for authentic data sources  
-- *Open-source tools (LangChain, Python/Node.js)* – for backend development
 
  ✨ This AI Agent is an educational prototype designed to promote safe and inclusive financial literacy.
 
