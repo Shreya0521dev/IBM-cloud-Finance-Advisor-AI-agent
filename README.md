@@ -1,4 +1,6 @@
 # IBM-cloud-Finance-Advisor-AI-agent
+![AI](AI.jpg)
+
 # 📝Overview
 Digital Financial Literacy Agent,
 It aims to assist users in understanding essential financial tools and concepts like UPI, interest rates, budgeting, and online scam prevention, using AI + RAG (Retrieval-Augmented Generation).The agent supports multilingual queries, enabling users from diverse backgrounds to ask questions in their native language. It retrieves factual, updated information from reliable sources like RBI, NPCI, and government portals, making financial knowledge accessible to all.
@@ -19,9 +21,18 @@ Users can:
 - Learn safe practices for digital banking and payments  
 - Use the agent as a learning tool for digital finance
 
- # Screenshots
+ #  🖼️Screenshots
  ### Set up 
  ![Setup](Setup.png)
+
+ ### Quick Start Questions
+ ![questions](quick_start_ques.png)
+
+ ### Tools used & testing
+ ![testing](testing.png)
+
+ ### Reference and deployment
+ ![deploy](Deployed.png)
 
 # 💬Example Prompts
 
