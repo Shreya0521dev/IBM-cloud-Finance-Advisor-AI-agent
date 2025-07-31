@@ -10,8 +10,8 @@ It aims to assist users in understanding essential financial tools and concepts 
   Real-time retrieval of trustworthy content using RAG
   Explains UPI, banking terms, interest rates, budgeting
   Detects and educates about online frauds and scams
-- 🎯 Personalized answers based on user intent
-- 🌐 Simple and user-friendly interface
+  Personalized answers based on user intent
+  Simple and user-friendly interface
 
  # 📌Usage
 
@@ -32,7 +32,7 @@ Users can:
  ![testing](testing.png)
 
  ### Reference and deployment
- ![deploy](Deployed.png)
+ ![deploy](Api_reference.png)
 
 # 💬Example Prompts
 
@@ -45,10 +45,10 @@ Users can:
 
 # ☁️IBM Cloud Services Used
 
-- 🧠 *IBM Granite* – for large language model responses  
-- ☁️ *IBM Cloud Lite* – for serverless deployment  
-- 🔗 *IBM Watson Assistant (optional)* – for user intent handling  
-- 📚 *IBM Knowledge Studio / RAG setup* – to retrieve data from documents and portals
+  IBM Granite – for large language model responses  
+  IBM Cloud Lite – for serverless deployment  
+  IBM Watson Assistant (optional) – for user intent handling  
+  IBM Knowledge Studio / RAG setup – to retrieve data from documents and portals
 
 
 # ⚙️How It Works
@@ -64,20 +64,22 @@ Users can:
 
 # ✅Do’s
 
-- ✔️ Ask clear finance-related questions  
-- ✔️ Explore in your local language  
-- ✔️ Use it as a learning assistant  
-- ✔️ Verify advice before applying in real-world banking
+- Ask clear finance-related questions  
+- Explore in your local language  
+- Use it as a learning assistant  
+- Verify advice before applying in real-world banking
 
 
 # ❌Don’ts
 
-- ❌ Don’t share personal bank credentials  
-- ❌ Don’t rely on it for investment or legal decisions  
-- ❌ Don’t misuse the assistant for unrelated queries  
-- ❌ Don’t use it as a replacement for official bank guidance
+- Don’t share personal bank credentials  
+- Don’t rely on it for investment or legal decisions  
+- Don’t misuse the assistant for unrelated queries  
+- Don’t use it as a replacement for official bank guidance
 
+# ✅ Conclusion
 
+This project showcases how AI and IBM Cloud can simplify financial concepts for everyday users. By providing real-time, multilingual support using reliable data, the agent promotes safe digital financial practices and empowers users with financial confidence.
 
 
  ✨ This AI Agent is an educational prototype designed to promote safe and inclusive financial literacy.
